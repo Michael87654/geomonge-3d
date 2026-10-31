@@ -1,4 +1,4 @@
-const VERSION = "c0c88e806c0c7342";
+const VERSION = "38d2a8f103941326";
 const FILES = [".nojekyll","app-config.json","assets/index-81Pa4ESw.js","assets/index-BvCQ9_2N.css","assets/three-C45dwzNz.js","icon-180.png","icon-192.png","icon-512.png","icon.svg","index.html","manifest.json"];
 const SCOPE = self.registration.scope;
 const PREFIX = `geomonge:${SCOPE}:`;
